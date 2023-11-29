@@ -1,0 +1,1 @@
+Backend RESTfull API implementation in Node.js with Express and Postgres To start with the aplication in the localhost is requiered to set the SQL tables and tigger functions before executing the app on port 3000
